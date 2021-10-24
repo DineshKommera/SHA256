@@ -15,7 +15,7 @@ using namespace std;
  
 int main(int argc, char *argv[])
 {
-	//Taking the mart.txt file as inputstream
+	//Taking the mark.txt file as inputstream
 	ifstream f("mark.txt"); 
 	string str;
    	if(f) {
